@@ -15,4 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-asd
+### I'm Zeynep (AlZenn) BALCI, and currently a student in ITU, Turkey.
+
+My main field is game development. I am interested in game programming, UI design, level design.
+
+### I have experience in these game engines:
+
+- Unreal Engine (2022-Ongoing / C#)
+- Unity (2016-Ongoing / C#)
+- GDevelop (2017-2018)
+
+### I also have experience in:
+
+- Java
+- Python
+- Web Design (HTML / CSS / JS)
+
+Some links about me and projects:
+
+- https://www.linkedin.com/in/zeynep-balcı-63017020b/
+- https://alzennn.itch.io
+- https://www.coregames.com/user/67876037757242e988564c533edbccff

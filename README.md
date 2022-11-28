@@ -31,7 +31,7 @@ My main field is game development. I am interested in game programming, UI desig
 - Python
 - Web Design (HTML / CSS / JS)
 
-Some links about me and projects:
+### Some links about me and projects:
 
 - https://www.linkedin.com/in/zeynep-balcı-63017020b/
 - https://alzennn.itch.io

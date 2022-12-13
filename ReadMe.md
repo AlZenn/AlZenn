@@ -27,6 +27,7 @@ My main field is game development. I am interested in game programming, UI desig
 
 ### I also have experience in:
 
+- C#
 - Java
 - Kotlin
 - Web Design (HTML / CSS / JS)

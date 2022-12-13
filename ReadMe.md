@@ -36,3 +36,4 @@ My main field is game development. I am interested in game programming, UI desig
 - https://www.linkedin.com/in/zeynep-balcı-63017020b/
 - https://alzennn.itch.io
 - https://www.coregames.com/user/67876037757242e988564c533edbccff
+- www.youtube.com/AlZenn

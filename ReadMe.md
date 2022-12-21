@@ -21,8 +21,8 @@ My main field is game development. I am interested in game programming, UI desig
 
 ### I have experience in these game engines:
 
-- Unreal Engine (2022-Ongoing / C#)
-- Unity (2016-Ongoing / C#)
+- Unreal Engine (2022-Ongoing)
+- Unity (2016-Ongoing)
 - GDevelop (2017-2018)
 
 ### I also have experience in:

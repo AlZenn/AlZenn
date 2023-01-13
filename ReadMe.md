@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Zeynep (AlZenn) BALCI, and currently a student in Turkey.
 
-My main field is game development. I am interested in game programming, UI design, level design.
+My main field is game development. I am interested in game programming.
 
 ### I have experience in these game engines:
 

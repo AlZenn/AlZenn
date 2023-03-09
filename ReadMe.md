@@ -1,40 +1,14 @@
-### Hi there 👋
+### Greetings 👋
 
-<!--
-**AlZenn/AlZenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Zeynep (AlZenn) and I am currently pursuing my studies in Turkey. My area of specialization is in game development, with a keen interest in game programming.
 
-Here are some ideas to get you started:
+Over the course of my experience, I have had the opportunity to work with several game engines such as Unreal Engine (2022-Ongoing), Unity (2020-Ongoing), and GDevelop (2017-2018). In addition to this, I am well-versed in programming languages such as C# and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For further insight into my projects and expertise, please refer to my professional profiles at the following links:
 
-### I'm Zeynep (AlZenn), and currently a student in Turkey.
-
-My main field is game development. I am interested in game programming.
-
-### I have experience in these game engines:
-
-- Unreal Engine (2022-Ongoing)
-- Unity (2020-Ongoing)
-- GDevelop (2017-2018)
-
-### I also have experience in:
-
-- C#
-- Java
-
-### Links about me and my projects:
-
-- https://www.linkedin.com/in/zeynepbalcı
-- https://alzennn.itch.io
-- https://www.coregames.com/user/67876037757242e988564c533edbccff
-- www.youtube.com/AlZenn
-- https://www.tiktok.com/@aalzenn
-- [alzenn.site](https://alzenn.site)
+LinkedIn: https://www.linkedin.com/in/zeynepbalcı
+Itch.io: https://alzennn.itch.io
+Coregames: https://www.coregames.com/user/67876037757242e988564c533edbccff
+YouTube: www.youtube.com/AlZenn
+Tiktok: https://www.tiktok.com/@aalzenn
+Personal website: alzenn.site

@@ -6,9 +6,9 @@ Over the course of my experience, I have had the opportunity to work with severa
 
 For further insight into my projects and expertise, please refer to my professional profiles at the following links:
 
-LinkedIn: https://www.linkedin.com/in/zeynepbalcı
-Itch.io: https://alzennn.itch.io
-Coregames: https://www.coregames.com/user/67876037757242e988564c533edbccff
-YouTube: www.youtube.com/AlZenn
-Tiktok: https://www.tiktok.com/@aalzenn
-Personal website: alzenn.site
+- LinkedIn: https://www.linkedin.com/in/zeynepbalcı
+- Itch.io: https://alzennn.itch.io
+- Coregames: https://www.coregames.com/user/67876037757242e988564c533edbccff
+- YouTube: www.youtube.com/AlZenn
+- Tiktok: https://www.tiktok.com/@aalzenn
+- Personal website: alzenn.site

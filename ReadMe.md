@@ -1,7 +1,7 @@
 <span align="center">
 
 # Zeynep "AlZenn" Balcı
-                Game Developer, Student in Turkey
+ Game Developer, Student in Turkey
 
 &nbsp;
 

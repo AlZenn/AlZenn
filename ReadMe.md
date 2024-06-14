@@ -20,7 +20,7 @@
 ![YT Sub](https://img.shields.io/youtube/channel/subscribers/UC9BMQLOn0q2xCsCNgTngAsQ)
 ![YT View](https://img.shields.io/youtube/channel/views/UC9BMQLOn0q2xCsCNgTngAsQ)<br>
 ![YT View](https://img.shields.io/badge/discord%3A%20pNHegP4Vxr-blue?logo=discord&logoColor=white&link=discord.gg%2FpNHegP4Vxr)
-![YT View](https://img.shields.io/discord/728593834044424252) <br>
+ <br>
 ![Instagram](https://img.shields.io/badge/Instagram%3A%20alzenn0-pink?logo=instagram&logoColor=white) <br>
 ![Tiktok](https://img.shields.io/badge/tiktok%3A%20aalzenn-black?logo=tiktok&logoColor=white) <br>
 

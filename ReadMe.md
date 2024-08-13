@@ -34,7 +34,7 @@
 All in one: https://linktr.ee/alzenn
 
 E-Mail: aizeniletisim@yandex.com <br>
-LinkedIn: https://www.linkedin.com/in/zeynepbalcı <br>
+LinkedIn: https://www.linkedin.com/in/balcizeynep <br>
 Itch.io: https://alzennn.itch.io <br>
 
 

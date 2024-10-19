@@ -1,41 +1,42 @@
-<span align="center">
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV4NmwwbGc1dGI5cTNpMmplaGhxNXpxMnpvZ2NxNzRra2M0aDFqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/balcizeynep" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@AlZenn" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=itchio&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://alzennn.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchio&logoColor=white" alt="Itchio Badge"/>
+  </a>
+</div>
 
-# Zeynep "AlZenn" Balcı
- Game Developer, Student in Turkey
+
+<h1 align="center">
+Zeynep "AlZenn" Balcı
+</h1>
+
+### 👩🏻‍💻 About Me :
+Game Developer, Student in Turkey
 
 &nbsp;
 
-## I like working with...
-  ![Java Shield](https://img.shields.io/badge/C%23-blue?logo=c%23)
-      ![JavaScript Shield](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=F7DF1E)
+### 🔧 Languages and Tools :
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+</div>
+
     
 &nbsp;
 
         
-## Social Media
-![LinkedIn](https://img.shields.io/badge/Itch.io%3A%20alzennn-red?logo=itchio&logoColor=white)<br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn%3A%20Zeynep%20Balc%C4%B1-blue?logo=linkedin&logoColor=white) 
- <br><br>
-![yt](https://img.shields.io/badge/youtube%3A%20AlZenn-red?logo=youtube&logoColor=white&link=www.youtube.com%2FAlZenn)
-![YT Sub](https://img.shields.io/youtube/channel/subscribers/UC9BMQLOn0q2xCsCNgTngAsQ)
-![YT View](https://img.shields.io/youtube/channel/views/UC9BMQLOn0q2xCsCNgTngAsQ)<br>
-![YT View](https://img.shields.io/badge/discord%3A%20pNHegP4Vxr-blue?logo=discord&logoColor=white&link=discord.gg%2FpNHegP4Vxr)
- <br>
-![Instagram](https://img.shields.io/badge/Instagram%3A%20alzenn0-pink?logo=instagram&logoColor=white) <br>
-![Tiktok](https://img.shields.io/badge/tiktok%3A%20aalzenn-black?logo=tiktok&logoColor=white) <br>
-
-
-
-
-
-&nbsp;
-
-## Contact me!
-All in one: https://linktr.ee/alzenn
-
+### 👀 Contact
+[Discord](https://discord.gg/N3BwmcaTum) alzenn </br> 
 E-Mail: aizeniletisim@yandex.com <br>
-LinkedIn: https://www.linkedin.com/in/balcizeynep <br>
-Itch.io: https://alzennn.itch.io <br>
-
-
-</span>

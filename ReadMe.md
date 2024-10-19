@@ -37,6 +37,6 @@ Game Developer, Student in Turkey
 &nbsp;
 
         
-### 👀 Contact
+### 👀 Contact :
 [Discord](https://discord.gg/N3BwmcaTum) alzenn </br> 
 E-Mail: aizeniletisim@yandex.com <br>

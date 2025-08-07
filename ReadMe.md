@@ -15,17 +15,17 @@ Dijital oyun tasarımı bölümünde öğrenciyim ve oyun geliştirme alanı üz
 - Oyun Geliştirme</br>
 - C# Programlama</br>
 - Unity Oyun Motoru Kullanımı</br>
-- Web Geliştirme (HTML, CSS, JavaScript)</br>
+- Web Geliştirme</br>
 - Git Versiyon Kontrolü
 
 ## ⚙️ Üzerinde Çalıştığım Projeler
-- Raven Island
+- Milord
 
 ## 🔧 Kullandığım Teknolojiler
 - **Programlama Dilleri:** C#, JavaScript
 - **Oyun Motorları:** Unity
 - **Web Geliştirme:** HTML5, CSS3
-- **Araçlar:** Git
+- **Araçlar:** Git, Fork
 
 ## 📫 İletişim
 <div>

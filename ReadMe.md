@@ -1,7 +1,7 @@
 # Zeynep "AlZenn" Balcı
 
 ## 👩🏻‍💻 Hakkımda
-Dijital oyun tasarımı bölümünde öğrenciyim ve oyun geliştirme alanı üzerinde çalışmaktayım.
+Dijital oyun tasarımı bölümünde öğrenciyim ve oyun geliştirme ile uğraşmaktayım.
 
 ## 💻 Uzmanlık Alanlarım
 <div>
@@ -13,7 +13,6 @@ Dijital oyun tasarımı bölümünde öğrenciyim ve oyun geliştirme alanı üz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 </div>
 - Oyun Geliştirme</br>
-- C# Programlama</br>
 - Unity Oyun Motoru Kullanımı</br>
 - Web Geliştirme</br>
 - Git Versiyon Kontrolü
@@ -22,10 +21,7 @@ Dijital oyun tasarımı bölümünde öğrenciyim ve oyun geliştirme alanı üz
 - Milord
 
 ## 🔧 Kullandığım Teknolojiler
-- **Programlama Dilleri:** C#, JavaScript
-- **Oyun Motorları:** Unity
-- **Web Geliştirme:** HTML5, CSS3
-- **Araçlar:** Git, Fork
+C#, JavaScript, Unity, HTML5, CSS3, Git, Fork
 
 ## 📫 İletişim
 <div>

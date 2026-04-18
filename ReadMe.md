@@ -9,8 +9,7 @@
 </div>
 
 ## ⚙️ Projects
-- **Milord** (on Steam)
-- **Swarm Grinder** (on Steam)
+- The Mist Train 
 
   <a href="https://alzennn.itch.io">More Games on itch.io ➜</a>
 

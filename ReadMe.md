@@ -7,7 +7,7 @@
 </div>
 <br/>
 <div align="center">
-  I am a Digital Game Design graduate based in Turkey. I develop games for PC and mobile platforms using Unity and C#. Alongside development, I create game-focused content on social media to share my journey.
+  I am a Digital Game Design graduate based in Türkiye I develop games for PC and mobile platforms using Unity and C#. Alongside development, I create game-focused content on social media to share my journey.
 </div>
 <br/>
 
